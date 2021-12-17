@@ -65,8 +65,7 @@ a:hover {
   font-family: 'courier new';
   font-size: 14px;
   color: #000000;
-  float: right;
-  margin: 20px;
+  margin-top: 20px;
   position: fixed;
   text-align: right;
   width: 30vw;
