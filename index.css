@@ -20,13 +20,6 @@ body {
   background-color: #F4F2EB;
 }
 
-.archivebutton {
-  font-family: 'bradfordmediumitalic', 'baskerville';
-  font-size: 14px;
-  color: black;
-  margin-top: 40px;
-  float: right;
-}
 
 a {
   text-style: none;
@@ -37,13 +30,6 @@ a:hover {
   background-color: #ff6e2f;
 }
 
-.backtomain {
-  font-family: 'bradfordmediumitalic', 'baskerville';
-  font-size: 14px;
-  color: black;
-  top: 40px;
-  float: right;
-}
 
 .nav {
   display: inline;
@@ -67,7 +53,7 @@ a:hover {
   margin-right: auto;
 }
 
-.bottombar {
+.navbar {
   font-family: 'bradfordregular', 'baskerville';
   background-color: #ff6e2f;
   z-index: 1;
@@ -80,6 +66,7 @@ a:hover {
   text-align: center;
   border-top: 1px solid #000000;
   width: 100vw;
+  display: inline-flex;
 }
 
 
