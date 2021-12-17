@@ -17,6 +17,12 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'franklinextralight';
+  src: url('docs/LibreFranklin-ExtraLight.ttf');
+  font-style: normal;
+}
+
 ::selection {
   background-color: black;
   color: white;
@@ -43,7 +49,7 @@ a:hover {
 }
 
 .introduction {
-  font-family: 'franklinthin', 'arial';
+  font-family: 'franklinextralight', 'arial';
   font-size: 16px;
   line-height: 21.6px;
   color: black;
