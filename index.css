@@ -65,12 +65,12 @@ a:hover {
   font-family: 'couriernew';
   color: #000000;
   float: right;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  margin: 20px;
   position: fixed;
   text-align: right;
   width: 30vw;
-  display: inline-flex;
+  display: inline-block;
+  z-index: 1;
 }
 
 .nav:hover {
