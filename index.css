@@ -158,23 +158,9 @@ a:hover {
 }
 
 @media (max-width: 600px) {
-  .literarybaby {
-    font-family: 'bradfordmediumitalic', 'baskerville';
-    font-size: 50px;
-    color: black;
-    padding-left: 20px;
-    padding-right: 20px;
-    position: fixed;
-    display: flex;
-    width: 100vw;
-    text-align: center;
-    line-height: 80px;
-    filter: invert(1);
-    mix-blend-mode: difference;
-  }
 
   .introduction {
-    font-family: 'bradfordregular', 'baskerville';
+    font-family: 'franklinextralight', 'arial';
     font-size: 18px;
     line-height: 21.6px;
     color: black;
@@ -185,20 +171,6 @@ a:hover {
     text-align: left;
   }
 
-  .bottombar {
-    font-family: 'bradfordregular', 'baskerville';
-    background-color: #ff6e2f;
-    z-index: 1;
-    padding-left: auto;
-    padding-right: auto;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    bottom: 0px;
-    position: fixed;
-    text-align: center;
-    border-top: 1px solid #000000;
-    width: 100vw;
-  }
 
   .pagetitle {
     font-family: 'bradfordmediumitalic', 'baskerville';
