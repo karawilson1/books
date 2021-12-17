@@ -11,6 +11,12 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'franklinthin';
+  src: url('docs/LibreFranklin-Thin.ttf');
+  font-style: normal;
+}
+
 ::selection {
   background-color: black;
   color: white;
@@ -37,7 +43,7 @@ a:hover {
 }
 
 .introduction {
-  font-family: 'bradfordregular', 'baskerville';
+  font-family: 'franklinthin', 'arial';
   font-size: 16px;
   line-height: 21.6px;
   color: black;
