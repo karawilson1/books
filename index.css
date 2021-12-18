@@ -67,7 +67,7 @@ a:hover {
   font-family: 'bradfordmediumitalic', 'baskerville';
   font-size: 90px;
   color: lime;
-  z-index: 0;
+  z-index: -1;
   top: 10px;
   left: 10px;
 }
@@ -76,7 +76,7 @@ a:hover {
   font-family: 'bradfordmediumitalic', 'baskerville';
   font-size: 90px;
   color: lime;
-  z-index: 0;
+  z-index: -1;
   bottom: 10px;
   right: 10px;
 }
