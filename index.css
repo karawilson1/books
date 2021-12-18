@@ -40,7 +40,7 @@ body {
 
 
 a {
-  text-style: none;
+  text-decoration: none;
   color: black;
 }
 
@@ -111,7 +111,7 @@ reads::selection {
   transform: rotate(15);
   max-width: 25vw;
   corner-radius: 4px;
-  bottom: 10px; 
+  bottom: 10px;
 }
 
 .recent:hover {
