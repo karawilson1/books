@@ -73,10 +73,17 @@ a:hover {
   z-index: 1;
 }
 
-.nav:hover {
+.recent:hover {
   font-family: 'bradfordmediumitalic';
 }
 
+.archive:hover {
+  font-family: 'bradfordmediumitalic';
+}
+
+.home:hover {
+  font-family: 'bradfordmediumitalic';
+}
 
 .pagetitle {
   font-family: 'bradfordmediumitalic', 'baskerville';
