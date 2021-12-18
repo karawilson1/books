@@ -106,6 +106,14 @@ reads::selection {
   position: fixed:
 }
 
+.me {
+  display: flex;
+  transform: rotate(15);
+  max-width: 25vw;
+  corner-radius: 4px;
+  bottom: 10px; 
+}
+
 .recent:hover {
   font-family: 'bradfordmediumitalic';
   background-color: none;
