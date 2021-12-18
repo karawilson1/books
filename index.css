@@ -81,6 +81,17 @@ a:hover {
   right: 10px;
 }
 
+kara:selection {
+  background-color: black;
+  color: lime;
+}
+
+reads:selection {
+  background-color: black;
+  color: lime;
+}
+
+
 .nav {
   font-family: 'courier new';
   font-size: 14px;
