@@ -109,7 +109,7 @@ reads::selection {
 .me {
   display: flex;
   transform: rotate(15);
-  max-width: 25vw;
+  width: 25vw;
   corner-radius: 4px;
   bottom: 10px;
 }
