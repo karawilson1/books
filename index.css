@@ -111,9 +111,9 @@ reads::selection {
   transform: rotate(15);
   width: 25vw;
   max-height: auto;
-  corner-radius: 4px;
+  border-radius: 4px;
   bottom: 10px;
-  z-index: -1; 
+  z-index: -1;
 }
 
 .recent:hover {
