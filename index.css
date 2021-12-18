@@ -65,7 +65,7 @@ a:hover {
 
 .kara {
   font-family: 'bradfordmediumitalic', 'baskerville';
-  font-size: 60px;
+  font-size: 90px;
   color: lime;
   z-index: 0;
   top: 10px;
@@ -74,7 +74,7 @@ a:hover {
 
 .reads {
   font-family: 'bradfordmediumitalic', 'baskerville';
-  font-size: 60px;
+  font-size: 90px;
   color: lime;
   z-index: 0;
   bottom: 10px;
