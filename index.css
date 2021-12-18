@@ -95,6 +95,7 @@ reads:selection {
 .nav {
   font-family: 'courier new';
   font-size: 14px;
+  text-decoration: none;
   font-weight: 700;
   color: #000000;
   margin-top: 20px;
@@ -107,14 +108,17 @@ reads:selection {
 
 .recent:hover {
   font-family: 'bradfordmediumitalic';
+  background-color: none;
 }
 
 .archive:hover {
   font-family: 'bradfordmediumitalic';
+  background-color: none;
 }
 
 .home:hover {
   font-family: 'bradfordmediumitalic';
+  background-color: none;
 }
 
 .pagetitle {
