@@ -63,7 +63,7 @@ a:hover {
   z-index: 1;
 }
 
-.kara {
+.karareads {
   font-family: 'bradfordmediumitalic', 'baskerville';
   font-size: 32px;
   color: black;
@@ -72,21 +72,7 @@ a:hover {
   left: 10px;
 }
 
-.reads {
-  font-family: 'bradfordmediumitalic', 'baskerville';
-  font-size: 32px;
-  color: black;
-  z-index: -1;
-  bottom: 10px;
-  right: 10px;
-}
-
-kara::selection {
-  background-color: black;
-  color: lime;
-}
-
-reads::selection {
+karareads::selection {
   background-color: black;
   color: lime;
 }
