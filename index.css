@@ -161,14 +161,18 @@ img {
 
 .booktitle {
   font-family: 'bradfordmediumitalic', 'baskerville';
-  font-size: 60px;
+  font-size: 32px;
   color: black;
+}
+
+.booktitle:hover {
+  color: lime;
 }
 
 .authorname {
   font-family: 'bradfordregular', 'baskerville';
   color: black;
-  font-size: 28px;
+  font-size: 20px;
 }
 
 /*review page*/
