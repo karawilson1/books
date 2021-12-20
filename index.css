@@ -102,7 +102,7 @@ img {
   display: inline-flex;
   position: absolute;
   top: 25%;
-  right: 25%;
+  left: 75%;
   z-index: -1;
 }
 
@@ -266,7 +266,7 @@ img {
       text-align: left;
       display: flex;
       padding-left: 10px;
-      padding-right: 10px; 
+      padding-right: 10px;
   }
 
   .year {
