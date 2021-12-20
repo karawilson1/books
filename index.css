@@ -191,6 +191,11 @@ img {
   float: right;
 }
 
+.blockquote {
+  font-family: 'franklinextralight', 'baskerville';
+  font-size: 14px;
+}
+
 .reviewimage {
   display: inline-flex;
   position: absolute;
