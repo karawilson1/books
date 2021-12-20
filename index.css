@@ -103,8 +103,7 @@ img {
 }
 
 .me {
-  transform: rotate(15);
-  width: 30%;
+  transform: rotate(-15);
   height: auto;
   display: block;
   right: 10px;
