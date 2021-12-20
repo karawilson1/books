@@ -218,9 +218,10 @@ img {
 }
 
 .filenotfoundheader {
-  font-family: 'franklinregular', 'arial';
+  font-family: 'bradfordmediumitalic', 'baskerville';
   font-size: 300px;
   text-align: center;
+  color: lime;
 }
 
 .filenotfoundtext {
