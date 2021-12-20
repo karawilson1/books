@@ -242,6 +242,11 @@ img {
     text-align: left;
   }
 
+  .nav {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 
   .pagetitle {
     font-family: 'bradfordmediumitalic', 'baskerville';
