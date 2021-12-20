@@ -108,10 +108,9 @@ reads::selection {
 
 .me {
   transform: rotate(15);
-  width: 25vw;
-  height: auto;
+  height: 25vh;
+  width: auto;
   border-radius: 4px;
-  position: absolute;
   right: 10px;
   bottom: 10px;
   z-index: -1;
