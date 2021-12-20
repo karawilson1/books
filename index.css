@@ -298,4 +298,10 @@ img {
     margin-left: 10px;
   }
 
+  .reviewimage {
+    display: inline-flex;
+    width: 100vw;
+    height: auto;
+  }
+
 }
