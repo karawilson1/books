@@ -162,6 +162,7 @@ img {
 
 .bookcontainer {
   text-align: left;
+  margin-bottom: 20px;
 }
 
 .booktitle {
@@ -220,7 +221,7 @@ img {
 .filenotfoundtext {
   font-family: 'franklinregular', 'arial';
   font-size: 18px;
-  text-align: center; 
+  text-align: center;
 }
 
 @media (max-width: 600px) {
