@@ -105,9 +105,9 @@ img {
   height: auto;
   display: block;
   right: 10px;
-  bottom: 10px;
+  top: 10px;
   z-index: 0;
-  float: right; 
+  float: right;
 }
 
 .pagetitle {
