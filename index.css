@@ -196,7 +196,7 @@ img {
 
 .reviewimage {
   display: inline-flex;
-  position: absolute, fixed;
+  position: absolute;
   top: 25%;
   left: 25%;
 }
