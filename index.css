@@ -46,6 +46,7 @@ a {
 
 a:hover {
   color: lime;
+  font-family: 'bradfordmediumitalic'
 }
 
 .introduction {
@@ -102,7 +103,7 @@ reads::selection {
   text-align: right;
   display: inline-flex;
   z-index: 1;
-  position: fixed;
+  position: sticky;
 }
 
 img {
@@ -117,21 +118,6 @@ img {
   right: 10px;
   bottom: 10px;
   z-index: -1;
-}
-
-.recent:hover {
-  font-family: 'bradfordmediumitalic';
-  background-color: none;
-}
-
-.archive:hover {
-  font-family: 'bradfordmediumitalic';
-  background-color: none;
-}
-
-.home:hover {
-  font-family: 'bradfordmediumitalic';
-  background-color: none;
 }
 
 .pagetitle {
