@@ -265,8 +265,8 @@ img {
       max-width: 100vw;
       text-align: left;
       display: flex;
-      padding-left: auto;
-      padding-right: auto; 
+      padding-left: 10px;
+      padding-right: 10px; 
   }
 
   .year {
