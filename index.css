@@ -171,7 +171,7 @@ img {
 
 /*review page*/
 .review {
-  font-family: 'bradfordregular', 'baskerville';
+  font-family: 'franklinextralight', 'baskerville';
   font-size: 18px;
   line-height: 21.6px;
   color: black;
@@ -235,12 +235,9 @@ img {
       text-align: left;
   }
 
-.kara {
+.karareads {
   display: none;
 }
 
-.reads {
-  display: none;
-}
 
 }
