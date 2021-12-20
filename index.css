@@ -42,6 +42,8 @@ body {
 a {
   text-decoration: none;
   color: black;
+  padding-left: 20px;
+  padding-right: 20px; 
 }
 
 a:hover {
