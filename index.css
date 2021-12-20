@@ -98,10 +98,11 @@ img {
 }
 
 .me {
+  transform: rotate(5deg);
   height: auto;
   display: inline-flex;
   position: absolute;
-  top: 25%;
+  top: 10%;
   left: 75%;
   z-index: -1;
 }
