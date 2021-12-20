@@ -102,11 +102,11 @@ img {
 .me {
   transform: rotate(-15);
   height: auto;
-  display: block;
-  right: 10px;
-  top: 10px;
-  z-index: 0;
-  float: right;
+  display: inline-flex;
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  z-index: 0; 
 }
 
 .pagetitle {
