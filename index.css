@@ -68,8 +68,8 @@ a:hover {
   font-size: 32px;
   color: black;
   z-index: -1;
-  top: 10px;
-  left: 10px;
+  top: 20px;
+  left: 20px;
 }
 
 karareads::selection {
