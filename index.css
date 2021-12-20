@@ -195,9 +195,10 @@ img {
 }
 
 .reviewimage {
-  display: flex;
-  top: 30%;
-  left: 30%;
+  display: inline-flex;
+  position: absolute;
+  top: 50%;
+  left: 25%;
 }
 
 @media (max-width: 600px) {
