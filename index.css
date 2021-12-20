@@ -51,7 +51,7 @@ a:hover {
 
 .introduction {
   font-family: 'franklinextralight', 'arial';
-  font-size: 16px;
+  font-size: 18px;
   line-height: 21.6px;
   color: black;
   display: flex;
@@ -201,7 +201,7 @@ img {
     display: flex;
     flex-direction: column;
     border-left: none;
-    max-width: 90vw;
+    max-width: 100vw;
     text-align: left;
   }
 
