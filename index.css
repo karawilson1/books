@@ -43,7 +43,7 @@ a {
   text-decoration: none;
   color: black;
   padding-left: 20px;
-  padding-right: 20px; 
+  padding-right: 20px;
 }
 
 a:hover {
@@ -176,7 +176,7 @@ img {
 }
 
 .authorname {
-  font-family: 'franklinextralight', 'arial';
+  font-family: 'bradfordregular', 'baskerville';
   color: black;
   font-size: 18px;
 }
