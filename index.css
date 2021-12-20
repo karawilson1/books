@@ -208,17 +208,18 @@ img {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  top: 25%;
   width: 50vw;
 }
 
 .filenotfoundheader {
   font-family: 'franklinregular', 'arial';
-  font-size: 96px;
+  font-size: 300px;
   text-align: center;
 }
 
 .filenotfoundtext {
-  font-family: 'franklinregular', 'arial';
+  font-family: 'franklinextralight', 'arial';
   font-size: 18px;
   text-align: center;
 }
