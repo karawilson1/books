@@ -73,13 +73,9 @@ a:hover {
   top: 40px;
   left: 64px;
   position: sticky;
+  filter: invert(1);
+  mix-blend-mode: difference;
 }
-
-karareads::selection {
-  background-color: black;
-  color: lime;
-}
-
 
 .nav {
   font-family: 'bradfordregular';
@@ -93,6 +89,8 @@ karareads::selection {
   display: inline-flex;
   z-index: 1;
   position: fixed;
+  filter: invert(1);
+  mix-blend-mode: difference;
 }
 
 img {
