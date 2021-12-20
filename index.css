@@ -146,9 +146,9 @@ img {
 /*archive*/
 .yearcontainer {
   max-width: 560px;
-  display: inline-flex;
+  display: flex;
+  flex-wrap: wrap;
   margin: 20px;
-  flex-direction: column;
 }
 
 .year {
