@@ -83,6 +83,7 @@ a:hover {
   top: 10px;
   margin-right: auto;
   margin-left: auto;
+  text-align: center;
   display: inline-flex;
   width: 100vw;
   z-index: 1;
@@ -213,7 +214,7 @@ img {
   margin-right: auto;
   text-align: center;
   top: 25%;
-  width: 50vw;
+  width: 40vw;
 }
 
 .filenotfoundheader {
