@@ -90,7 +90,7 @@ a:hover {
   z-index: 1;
   position: fixed;
   filter: invert(1);
-  mix-blend-mode: difference;
+  mix-blend-mode: darken;
 }
 
 img {
