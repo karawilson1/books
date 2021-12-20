@@ -99,11 +99,12 @@ img {
 
 .me {
   transform: rotate(15);
-  height: 25vh;
-  width: auto;
+  width: 30vw;
+  display: inline-block;
   right: 10px;
   bottom: 10px;
   z-index: -1;
+
 }
 
 .pagetitle {
