@@ -86,7 +86,7 @@ a:hover {
   top: 10px;
   margin-right: auto;
   margin-left: auto;
-  display: inline-block;
+  display: inline-flex;
   z-index: 1;
   position: fixed;
 }
