@@ -106,6 +106,8 @@ img {
   top: 10px;
   z-index: 0;
   float: right;
+  filter: invert(1);
+  mix-blend-mode: difference;
 }
 
 .pagetitle {
