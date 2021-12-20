@@ -74,8 +74,8 @@ a:hover {
 
 .reads {
   font-family: 'bradfordmediumitalic', 'baskerville';
-  font-size: 90px;
-  color: lime;
+  font-size: 32px;
+  color: black;
   z-index: -1;
   bottom: 10px;
   right: 10px;
