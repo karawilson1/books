@@ -203,6 +203,26 @@ img {
   left: 25%;
 }
 
+/*404 page*/
+.filenotfound {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 50vw;
+}
+
+.filenotfoundheader {
+  font-family: 'franklinregular', 'arial';
+  font-size: 96px;
+  text-align: center;
+}
+
+.filenotfoundtext {
+  font-family: 'franklinregular', 'arial';
+  font-size: 18px;
+  text-align: center; 
+}
+
 @media (max-width: 600px) {
 
   .introduction {
