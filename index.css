@@ -99,7 +99,7 @@ img {
 
 .me {
   transform: rotate(15);
-  max-width: 30%;
+  width: 30%;
   height: auto;
   display: block;
   right: 10px;
