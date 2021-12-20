@@ -194,6 +194,12 @@ img {
   float: right;
 }
 
+.reviewimage {
+  display: flex;
+  top: 30%;
+  left: 30%;
+}
+
 @media (max-width: 600px) {
 
   .introduction {
