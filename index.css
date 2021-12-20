@@ -98,7 +98,6 @@ img {
 }
 
 .me {
-  transform: rotate(5deg);
   height: auto;
   display: inline-flex;
   position: absolute;
