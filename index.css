@@ -87,6 +87,7 @@ a:hover {
   margin-right: auto;
   margin-left: auto;
   display: inline-flex;
+  width: 100%;
   z-index: 1;
   position: fixed;
 }
