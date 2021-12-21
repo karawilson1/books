@@ -244,9 +244,7 @@ img {
 }
 
 .favorites-img {
-  object-fit: contain;
-  width: 20vw;
-  height: auto;
+  object-fit: contain; 
   display: flex;
   padding: 20px;
 }
