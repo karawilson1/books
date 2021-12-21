@@ -192,7 +192,7 @@ img {
   padding-left: 60px;
   padding-right: 60px;
   padding-top: 40px;
-  z-index: 0;
+  z-index: 1;
   float: right;
 }
 
@@ -209,6 +209,7 @@ img {
   position: absolute;
   top: 25%;
   left: 25%;
+  z-index: 0;
 }
 
 /*404 page*/
@@ -333,7 +334,7 @@ img {
 
   .inprogress {
     font-size: 100px;
-    line-height: 110px; 
+    line-height: 110px;
   }
 
   .filenotfoundtext {
