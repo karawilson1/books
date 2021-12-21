@@ -81,9 +81,13 @@ a:hover {
   font-weight: 500;
   color: #000000;
   top: 10px;
+<<<<<<< HEAD
   margin-right: auto;
   margin-left: auto;
   display: inline-block;
+=======
+  list-style: none;
+>>>>>>> 568139cf984c09321e96ad3c0b34c2094d15181c
   text-align: center;
   margin: 0;
   padding: 0;
@@ -92,6 +96,17 @@ a:hover {
   position: fixed;
 }
 
+<<<<<<< HEAD
+=======
+.nav li {
+  display: inline;
+}
+
+.nav a {
+  display: inline-block;
+  padding: 10px; 
+}
+>>>>>>> 568139cf984c09321e96ad3c0b34c2094d15181c
 
 img {
   border: 1px solid #000000;
