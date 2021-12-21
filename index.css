@@ -206,7 +206,7 @@ img {
 .reviewimage {
   transform: rotate(-5deg);
   display: inline-flex;
-  position: absolute;
+  position: fixed;
   top: 25%;
   left: 25%;
   z-index: 0;
