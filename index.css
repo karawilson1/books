@@ -236,15 +236,16 @@ img {
 
 /*favorites*/
 .favorites-image-container {
-  display: inline-flex;
+  display: flex;
   flex-flow: row wrap;
   justify-content: center;
+  position: relative;
   max-width: 80vw;
 }
 
 .favorites-img {
-  max-height: 30%;
-  max-width: auto;
+  width: 30%;
+  height: auto;
   margin: 10px;
 }
 
