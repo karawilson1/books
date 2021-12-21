@@ -203,6 +203,7 @@ img {
 }
 
 .reviewimage {
+  transform: rotate(-5deg);
   display: inline-flex;
   position: absolute;
   top: 25%;
@@ -237,7 +238,7 @@ img {
   text-align: center;
   color: black;
   text-align: left;
-  margin: 40px; 
+  margin: 40px;
 }
 
 @media (max-width: 600px) {
