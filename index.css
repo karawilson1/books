@@ -247,9 +247,9 @@ img {
 
 .content {
   display: flex;
-  width: 100%;
   position: relative;
-  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 100vw;
 }
 
   .introduction {
