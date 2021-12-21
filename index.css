@@ -235,10 +235,9 @@ img {
 .inprogress {
   font-family: 'bradfordmediumitalic', 'baskerville';
   font-size: 300px;
-  line-height: 110%
+  line-height: 110%;
   text-align: center;
   color: black;
-  text-align: left;
   margin: 40px;
 }
 
@@ -328,6 +327,10 @@ img {
   }
 
   .filenotfoundheader {
+    font-size: 100px;
+  }
+
+  .inprogress {
     font-size: 100px;
   }
 
