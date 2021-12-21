@@ -291,6 +291,8 @@ img {
     margin-bottom: 10px !important;
     text-align: center;
     position: relative;
+    filter: invert(1);
+    mix-blend-mode: difference;
   }
 
   .pagetitle {
