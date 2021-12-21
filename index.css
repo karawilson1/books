@@ -245,6 +245,10 @@ img {
 
 @media (max-width: 600px) {
 
+.content {
+  display: inline-block;
+}
+
   .introduction {
     font-family: 'franklinextralight', 'arial';
     font-size: 18px;
