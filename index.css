@@ -249,6 +249,7 @@ img {
   display: flex;
   width: 100%;
   position: relative;
+  justify-content: flex-start;
 }
 
   .introduction {
