@@ -237,9 +237,8 @@ img {
 /*favorites*/
 .favorites-image-container {
   display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
-  position: relative;
+  flex-direction: row;
+  flex-wrap: wrap;
   max-height: 80vh;
   padding: 20px;
 }
