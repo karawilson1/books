@@ -240,7 +240,7 @@ img {
   flex-flow: row wrap;
   justify-content: center;
   position: relative;
-  max-width: 80vw;
+  max-height: 80vh;
   padding: 20px;
 }
 
