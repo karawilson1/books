@@ -247,6 +247,7 @@ img {
 .favorites-img {
   object-fit: contain;
   display: inline-block;
+  width: calc(100% + (1/4) - 10px - 1px);
 }
 
 /*in progress page*/
