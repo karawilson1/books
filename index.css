@@ -274,6 +274,8 @@ img {
     height: auto;
     margin: 20px 10px;
     z-index: 1;
+    left: 0;
+    top: 0;
   }
 
   .karareads {
