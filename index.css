@@ -246,7 +246,7 @@ img {
 @media (max-width: 600px) {
 
 .content {
-  display: flex;
+  display: block;
   position: relative;
   justify-content: center;
   max-width: 100vw;
@@ -261,7 +261,7 @@ img {
     max-width: 100vw;
     text-align: left;
     margin: 0px 10px;
-    position: absolute;
+    position: relative;
     z-index: 1;
   }
 
@@ -278,7 +278,7 @@ img {
     margin: 20px 10px;
     z-index: 1;
     left: 0;
-    position: absolute;
+    position: relative;
     top: 0;
   }
 
@@ -288,7 +288,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    position: absolute;
+    position: relative;
   }
 
   .pagetitle {
