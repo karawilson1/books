@@ -241,12 +241,12 @@ img {
   justify-content: center;
   position: relative;
   max-width: 80vw;
+  padding: 20px;
 }
 
 .favorites-img {
   width: 30%;
   height: auto;
-  margin: 10px;
 }
 
 /*in progress page*/
