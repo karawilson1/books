@@ -262,10 +262,10 @@ img {
     margin-right: auto;
   }
 
-.karareads {
+  .karareads {
   margin-left: auto;
   margin-right: auto;
-}
+  }
 
   .pagetitle {
     font-family: 'bradfordmediumitalic', 'baskerville';
@@ -301,6 +301,8 @@ img {
       display: flex;
       padding-left: 10px;
       padding-right: 10px;
+      margin-top: 20px;
+      margin-bottom: 20px;
       z-index: 1;
   }
 
