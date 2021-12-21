@@ -244,8 +244,9 @@ img {
 }
 
 .favorites-img {
-  width: 30%;
+  width: 600px;
   height: auto;
+  display: inline-flex;
 }
 
 /*in progress page*/
