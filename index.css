@@ -269,6 +269,7 @@ img {
     width: 100vw;
     height: auto;
     margin: 10px;
+    z-index: 1;
   }
 
   .karareads {
@@ -334,6 +335,7 @@ img {
     display: block;
     width: 100vw;
     height: auto;
+    z-index: 1;
   }
 
   .filenotfound {
