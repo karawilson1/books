@@ -246,7 +246,7 @@ img {
 @media (max-width: 600px) {
 
 .content {
-  display: block;
+  display: flex;
   width: 100%;
   position: relative;
 }
