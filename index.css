@@ -234,6 +234,19 @@ img {
   text-align: center;
 }
 
+/*favorites*/
+.favorites-image-container {
+  flex-flow: row wrap;
+  max-width: 80vw;
+  margin: 40px; 
+}
+
+.favorites-img {
+  max-height: 30vw;
+  max-width: auto;
+}
+
+/*in progress page*/
 .inprogress {
   font-family: 'bradfordmediumitalic', 'baskerville';
   font-size: 300px;
