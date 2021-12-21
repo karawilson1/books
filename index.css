@@ -239,12 +239,12 @@ img {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  max-height: 80vh;
+  height: 80vh;
   padding: 20px;
 }
 
 .favorites-img {
-  object-fit: contain; 
+  object-fit: contain;
   width: 20vw;
   height: auto;
   display: flex;
