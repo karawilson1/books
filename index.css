@@ -247,6 +247,7 @@ img {
   width: 600px;
   height: auto;
   display: inline-flex;
+  padding: 20px; 
 }
 
 /*in progress page*/
