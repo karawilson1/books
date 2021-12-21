@@ -81,16 +81,16 @@ a:hover {
   font-weight: 500;
   color: #000000;
   top: 10px;
-  margin-right: auto;
-  margin-left: auto;
-  display: inline-block;
-  text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
   margin: 0;
-  padding: 0;
+  padding: 20px;
   width: 100%;
   z-index: 1;
   position: fixed;
 }
+
 
 
 img {
