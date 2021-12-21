@@ -333,6 +333,7 @@ img {
 
   .inprogress {
     font-size: 100px;
+    line-height: 110px; 
   }
 
   .filenotfoundtext {
