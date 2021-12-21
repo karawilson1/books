@@ -266,10 +266,11 @@ img {
   }
 
   .nav {
-    font-size: 13px;
-    margin-left: auto;
-    margin-right: auto;
+    font-size: 14px;
+    margin-left: 0;
+    margin-right: 0;
     max-width: 100vw;
+    padding: 10px;
   }
 
   .me {
