@@ -80,11 +80,11 @@ a:hover {
   text-decoration: none;
   font-weight: 500;
   color: #000000;
-  top: 10px;
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  margin: auto;
+  top: 0px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
   padding: 20px;
   width: 100%;
   z-index: 1;
