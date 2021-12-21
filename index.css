@@ -246,7 +246,7 @@ img {
 @media (max-width: 600px) {
 
 .content {
-  display: inline-block;
+  display: block;
   width: 100%;
   position: relative;
 }
