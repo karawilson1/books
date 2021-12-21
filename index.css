@@ -235,6 +235,7 @@ img {
 .inprogress {
   font-family: 'bradfordmediumitalic', 'baskerville';
   font-size: 300px;
+  line-height: 110%
   text-align: center;
   color: black;
   text-align: left;
