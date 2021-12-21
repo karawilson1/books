@@ -110,6 +110,12 @@ img {
   z-index: -1;
 }
 
+.caption {
+  font-family: 'bradfordmediumitalic', 'baskerville';
+  font-size: 12px;
+  text-align: left; 
+}
+
 .pagetitle {
   font-family: 'bradfordmediumitalic', 'baskerville';
   color: black;
