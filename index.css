@@ -241,13 +241,12 @@ img {
   flex-wrap: wrap;
   height: 100vh;
   width: 80vw;
-  padding: 20px;
+  margin: 40px;
 }
 
 .favorites-img {
   object-fit: contain;
   display: inline-block;
-  padding: 20px;
 }
 
 /*in progress page*/
