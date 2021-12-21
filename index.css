@@ -297,6 +297,7 @@ img {
       display: flex;
       padding-left: 10px;
       padding-right: 10px;
+      z-index: 1;
   }
 
   .yearcontainer {
