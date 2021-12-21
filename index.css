@@ -316,6 +316,7 @@ img {
     display: inline-flex;
     width: 100vw;
     height: auto;
+    z-index: 0;
   }
 
   .filenotfound {
