@@ -104,7 +104,7 @@ img {
   transform: rotate(5deg);
   height: auto;
   display: inline-flex;
-  position: absolute;
+  position: fixed;
   top: 10%;
   left: 65%;
   z-index: -1;
