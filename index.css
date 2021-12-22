@@ -281,7 +281,7 @@ img {
   }
 
   .favorites-img {
-    height: 100vh;
+    max-height: 100vh;
     margin-bottom: 20px;
   }
 
