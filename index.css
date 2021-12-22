@@ -246,9 +246,10 @@ img {
 
 .favorites-img {
   object-fit: contain;
-  display: inline-flex;
+  display: inline-block;
   flex-grow: 1;
-  width: calc(25% -2em);
+  width: 25%;
+  box-sizing: border-box; 
 }
 
 /*in progress page*/
