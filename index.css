@@ -55,7 +55,8 @@ a:hover {
   font-family: 'franklinextralight', 'arial';
   font-size: 18px;
   line-height: 21.6px;
-  color: black;
+  background-color: black;
+  color: white;
   display: flex;
   flex-direction: column;
   max-width: 40%;
