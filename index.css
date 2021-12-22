@@ -267,6 +267,11 @@ img {
   max-width: 100vw;
 }
 
+.favorites-img {
+  width: 40%;
+  margin-bottom: 20px;
+}
+
   .introduction {
     font-family: 'franklinextralight', 'arial';
     font-size: 18px;
