@@ -241,7 +241,7 @@ img {
   flex-wrap: wrap;
   height: 100vh;
   padding: 20px !important;
-  justify-content: start;
+  justify-content: center;
 }
 
 .favorites-img {
