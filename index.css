@@ -238,7 +238,7 @@ img {
 .favorites-image-container {
   display: flex;
   flex-direction: row;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   height: 100vh;
   padding: 20px !important;
   justify-content: center;
