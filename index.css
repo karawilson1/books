@@ -280,6 +280,11 @@ img {
     z-index: 1;
   }
 
+  .favorites-img {
+    height: 100vh;
+    margin-bottom: 20px;
+  }
+
   .nav {
     font-size: 14px;
     margin-left: 0;
