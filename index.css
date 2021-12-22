@@ -240,7 +240,7 @@ img {
   flex-direction: row;
   flex-wrap: wrap;
   height: 100vh;
-  margin: 40px;
+  padding: 20px !important;
 }
 
 .favorites-img {
