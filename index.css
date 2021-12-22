@@ -244,10 +244,9 @@ img {
 }
 
 .favorites-img {
-  object-fit: contain;
   flex-grow: 1;
   height: 80%;
-  margin-bottom: 20px; 
+  margin-bottom: 20px;
 }
 
 /*in progress page*/
