@@ -248,6 +248,10 @@ img {
   margin-bottom: 20px;
 }
 
+.favorites-img .img {
+  width: 30%;
+}
+
 /*in progress page*/
 .inprogress {
   font-family: 'bradfordmediumitalic', 'baskerville';
@@ -287,6 +291,10 @@ img {
   .favorites-img {
     max-height: 100vh;
     margin-bottom: 20px;
+  }
+
+  .favorites-img .img {
+    width: 50%;
   }
 
   .nav {
