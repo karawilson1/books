@@ -90,6 +90,10 @@ a:hover {
   position: fixed;
 }
 
+.items {
+  align-self: center; 
+}
+
 
 
 img {
