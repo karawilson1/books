@@ -106,7 +106,7 @@ img {
 }
 
 .me {
-  transform: rotate(0deg);
+  transform: rotate(5deg);
   height: auto;
   display: inline-flex;
   position: fixed;
