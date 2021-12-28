@@ -63,6 +63,8 @@ a:hover {
   margin-right: auto;
   margin-top: 40px;
   z-index: 1;
+  filter: invert(1);
+  mix-blend-mode: difference;
 }
 
 .karareads {
