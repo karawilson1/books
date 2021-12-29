@@ -47,7 +47,7 @@ a {
 }
 
 a:hover {
-  color: lime;
+  color: blue;
   font-family: 'bradfordmediumitalic'
 }
 
@@ -176,7 +176,7 @@ img {
 }
 
 .booktitle:hover {
-  color: lime;
+  color: blue;
 }
 
 .authorname {
