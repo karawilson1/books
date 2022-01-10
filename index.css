@@ -237,12 +237,12 @@ img {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  height: 100vh;
+  width: 100vw;
   padding: 20px !important;
 }
 
 .favorites-img {
-  height: 50%;
+  height: 80%;
   margin-bottom: 20px;
 }
 
