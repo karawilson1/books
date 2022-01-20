@@ -201,6 +201,7 @@ img {
   line-height: 16px;
   margin-left: 20px;
   border-left: 1px solid lime;
+  padding-left: 10px; 
 }
 
 .reviewimage {
