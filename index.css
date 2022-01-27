@@ -29,6 +29,12 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'franklinextralightitalic';
+  src: url('docs/LibreFranklin-ExtraLightItalic.ttf');
+  font-style: normal;
+}
+
 ::selection {
   background-color: black;
   color: white;
@@ -196,9 +202,8 @@ img {
 }
 
 .trigger {
-  font-family: 'franklinextralight', 'baskerville';
+  font-family: 'franklinextralightitalic', 'baskerville';
   font-size: 14px;
-  font-style: italic;
 }
 
 .blockquote {
