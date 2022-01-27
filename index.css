@@ -204,7 +204,9 @@ img {
 .trigger {
   font-family: 'franklinextralightitalic', 'baskerville';
   font-size: 14px;
-    line-height: 16px;
+  line-height: 16px;
+  background-color: black;
+  color: white; 
 }
 
 .blockquote {
