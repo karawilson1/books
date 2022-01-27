@@ -195,6 +195,12 @@ img {
   float: right;
 }
 
+.trigger {
+  font-family: 'franklinextralight', 'baskerville';
+  font-size: 14px;
+  font-style: italic;
+}
+
 .blockquote {
   font-family: 'franklinextralight', 'baskerville';
   font-size: 14px;
