@@ -50,7 +50,7 @@ a {
   color: black;
   padding-left: 20px;
   padding-right: 20px;
-  white-space: nowrap; 
+  white-space: nowrap;
 }
 
 a:hover {
@@ -266,7 +266,7 @@ img {
 .inprogress {
   font-family: 'bradfordmediumitalic', 'baskerville';
   font-size: 300px;
-  line-height: 310px;
+  line-height: 110%;
   text-align: center;
   color: black;
   margin: 40px;
