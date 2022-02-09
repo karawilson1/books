@@ -277,7 +277,7 @@ img {
 .inprogress {
   font-family: 'bradfordmediumitalic', 'garamond';
   font-size: 300px;
-  line-height: 100%;
+  line-height: 80%;
   text-align: center;
   color: black;
   margin: 40px;
