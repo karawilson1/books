@@ -120,6 +120,7 @@ img {
   font-family: 'franklinextralight', 'arial';
   display: inline;
   color: black;
+  white-space: nowrap;
 }
 
 .sorrylink:hover {
