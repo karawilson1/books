@@ -270,6 +270,7 @@ img {
   flex-wrap: wrap;
   width: 100vw;
   padding: 20px !important;
+  overflow: hidden;
 }
 
 .favorites-img {
