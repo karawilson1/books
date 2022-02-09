@@ -73,7 +73,7 @@ a:hover {
 }
 
 .karareads {
-  font-family: 'bradfordmediumitalic', 'baskerville';
+  font-family: 'bradfordmediumitalic', 'garamond';
   font-size: 48px;
   color: black;
   top: 40px;
@@ -116,9 +116,20 @@ img {
   z-index: -1;
 }
 
+.sorrylink {
+  font-family: 'franklinextralight', 'arial';
+  display: inline;
+  color: black;
+}
+
+.sorrylink:hover {
+  font-family: 'franklinextralight', 'arial';
+  display: inline;
+  color: lime;
+}
 
 .pagetitle {
-  font-family: 'bradfordmediumitalic', 'baskerville';
+  font-family: 'bradfordmediumitalic', 'garamond';
   color: black;
   font-size: 32px;
   line-height: 100%;
@@ -130,7 +141,7 @@ img {
 }
 
 .author {
-  font-family: 'bradfordmediumitalic', 'baskerville';
+  font-family: 'bradfordmediumitalic', 'garamond';
   color: black;
   font-size: 16px;
   text-align: left;
@@ -141,7 +152,7 @@ img {
 }
 
 .archiveheading {
-  font-family: 'bradfordmediumitalic', 'baskerville';
+  font-family: 'bradfordmediumitalic', 'garamond';
   color: black;
   font-size: 18px;
   text-align: left;
@@ -171,7 +182,7 @@ img {
 }
 
 .booktitle {
-  font-family: 'bradfordmediumitalic', 'baskerville';
+  font-family: 'bradfordmediumitalic', 'garamond';
   font-size: 32px;
   color: black;
 }
@@ -181,14 +192,14 @@ img {
 }
 
 .authorname {
-  font-family: 'bradfordregular', 'baskerville';
+  font-family: 'bradfordregular', 'garamond';
   color: black;
   font-size: 18px;
 }
 
 /*review page*/
 .review {
-  font-family: 'franklinextralight', 'baskerville';
+  font-family: 'franklinextralight', 'garamond';
   font-size: 18px;
   line-height: 22px;
   color: black;
@@ -203,13 +214,13 @@ img {
 }
 
 .trigger {
-  font-family: 'franklinextralightitalic', 'baskerville';
+  font-family: 'franklinextralightitalic', 'garamond';
   font-size: 14px;
   line-height: 17px;
 }
 
 .blockquote {
-  font-family: 'franklinextralight', 'baskerville';
+  font-family: 'franklinextralight', 'garamond';
   font-size: 14px;
   line-height: 16px;
   margin-left: 20px;
@@ -236,7 +247,7 @@ img {
 }
 
 .filenotfoundheader {
-  font-family: 'bradfordmediumitalic', 'baskerville';
+  font-family: 'bradfordmediumitalic', 'garamond';
   font-size: 300px;
   text-align: center;
   color: lime;
@@ -264,7 +275,7 @@ img {
 
 /*in progress page*/
 .inprogress {
-  font-family: 'bradfordmediumitalic', 'baskerville';
+  font-family: 'bradfordmediumitalic', 'garamond';
   font-size: 300px;
   line-height: 100%;
   text-align: center;
@@ -337,7 +348,7 @@ img {
   }
 
   .pagetitle {
-    font-family: 'bradfordmediumitalic', 'baskerville';
+    font-family: 'bradfordmediumitalic', 'garamond';
     color: black;
     font-size: 32px;
     line-height: 100%;
@@ -349,7 +360,7 @@ img {
   }
 
   .author {
-    font-family: 'bradfordmediumitalic', 'baskerville';
+    font-family: 'bradfordmediumitalic', 'garamond';
     color: black;
     font-size: 20px;
     text-align: left;
