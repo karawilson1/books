@@ -35,6 +35,12 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'franklinbolt';
+  src: url('docs/LibreFranklin-Bold.ttf');
+  font-style: normal;
+}
+
 ::selection {
   background-color: black;
   color: white;
