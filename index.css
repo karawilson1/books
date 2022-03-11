@@ -251,6 +251,7 @@ img {
 .subhead {
   font-family: 'franklinbold', 'arial';
   font-size: 18px;
+  margin-bottom: 10px; 
 }
 
 /*404 page*/
