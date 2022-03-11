@@ -210,7 +210,7 @@ img {
 
 /*review page*/
 .review {
-  font-family: 'franklinextralight', 'garamond';
+  font-family: 'franklinextralight', 'arial';
   font-size: 18px;
   line-height: 22px;
   color: black;
@@ -231,7 +231,7 @@ img {
 }
 
 .blockquote {
-  font-family: 'franklinextralight', 'garamond';
+  font-family: 'franklinextralight', 'arial';
   font-size: 14px;
   line-height: 16px;
   margin-left: 20px;
@@ -246,6 +246,11 @@ img {
   top: 25%;
   left: 25%;
   z-index: 0;
+}
+
+.subhead {
+  font-family: 'franklinbold', 'arial';
+  font-size: 18px;
 }
 
 /*404 page*/
