@@ -224,7 +224,7 @@ img {
   float: right;
 }
 
-.trigger {
+.disclaimer {
   font-family: 'franklinextralightitalic', 'garamond';
   font-size: 14px;
   line-height: 17px;
@@ -251,7 +251,7 @@ img {
 .subhead {
   font-family: 'franklinbold', 'arial';
   font-size: 18px;
-  margin-bottom: 0px; 
+  margin-bottom: 0px;
 }
 
 /*404 page*/
