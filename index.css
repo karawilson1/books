@@ -93,7 +93,7 @@ a:hover {
   text-decoration: none;
   font-weight: 500;
   color: #000000;
-  display: block;
+  display: flex;
   flex-direction: row;
   top: 0px;
   margin-left: auto;
