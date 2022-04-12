@@ -438,13 +438,10 @@ img {
   }
 
   .reviewimage {
-    transform: rotate(0deg);
     display: block;
     max-width: 120vw;
     height: auto;
     z-index: -1;
-    top: 75%;
-    left: 75%;
   }
 
   .filenotfound {
