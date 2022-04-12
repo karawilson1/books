@@ -353,13 +353,13 @@ img {
   .me {
     transform: rotate(0deg);
     display: block;
-    max-width: 100vw;
+    max-width: 120vw;
     height: auto;
     margin: 20px 10px !important;
     z-index: 1;
-    left: 0;
-    position: relative;
-    top: 0;
+    left: 25%;
+    position: fixed;
+    bottom: 0;
   }
 
   .karareads {
