@@ -119,8 +119,8 @@ img {
 .me {
   transform: rotate(0deg);
   max-height: 60vh;
-  width: auto;
-  display: flex;
+  width: 50%;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   z-index: -1;
