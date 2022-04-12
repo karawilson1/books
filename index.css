@@ -443,7 +443,6 @@ img {
     display: block;
     max-width: 120vw;
     height: auto;
-    z-index: -1;
   }
 
   .filenotfound {
