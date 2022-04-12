@@ -190,12 +190,14 @@ img {
 .bookcontainer {
   text-align: left;
   margin-top: 10px;
+  object-fit: fill;
 }
 
 .booktitle {
   font-family: 'bradfordmediumitalic', 'garamond';
   font-size: 32px;
   color: black;
+  object-fit: fill;
 }
 
 .booktitle:hover {
