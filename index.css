@@ -413,7 +413,7 @@ img {
 
   .yearcontainer {
     margin: 10px;
-    overflow: none;
+    overflow: hidden;
   }
 
   .year {
@@ -424,7 +424,7 @@ img {
     max-width: 100vw;
     margin-top: 40px;
     margin-left: 10px;
-    overflow: none;
+    overflow: hidden;
   }
 
   .booktitle {
