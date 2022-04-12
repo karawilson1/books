@@ -455,9 +455,7 @@ img {
     display: block;
     max-width: 120vw;
     height: auto;
-    z-index: 1;
-    filter: invert(1);
-    mix-blend-mode: difference;
+    z-index: -1;
     top: 75%;
     left: 75%;
   }
