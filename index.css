@@ -250,7 +250,7 @@ img {
   transform: rotate(0deg);
   display: inline-flex;
   position: fixed;
-  margin-bottom: 40px;
+  bottom: 40px;
   left: 25%;
   z-index: 0;
 }
