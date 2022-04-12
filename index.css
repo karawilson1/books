@@ -249,7 +249,7 @@ img {
   transform: rotate(0deg);
   display: inline-flex;
   position: fixed;
-  top: 25%;
+  margin-bottom: 40px;
   left: 25%;
   z-index: 0;
 }
@@ -347,7 +347,6 @@ img {
     max-width: 100vw;
     padding: 10px;
     overflow: hidden;
-    background-color: white;
   }
 
   .me {
