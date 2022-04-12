@@ -323,7 +323,7 @@ img {
   }
 }​
 
-@media (max-width: 600px) {
+@media (min-width: 20px) and (max-width: 600px) {
 
 .content {
   display: block;
