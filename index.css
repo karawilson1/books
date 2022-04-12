@@ -99,6 +99,7 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   padding: 10px 10px;
+  position: sticky;
   width: 100vw;
   z-index: 1;
 }
