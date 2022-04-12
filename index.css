@@ -300,26 +300,8 @@ img {
   margin: 40px;
 }
 
-@media (min-width: 599px) and (max-width:1000px) {
-  .review {
-      font-family: 'franklinextralight', 'arial';
-      font-size: 18px;
-      line-height: 21.6px;
-      color: black;
-      display: flex;
-      max-width: 40%;
-      text-align: left;
-      display: flex;
-      padding-left: auto;
-      padding-right: auto;
-      margin-top: 50px;
-      margin-bottom: 20px;
-      z-index: 1;
-  }
-}​
 
 @media (min-width: 20px) and (max-width: 600px) {
-
 .content {
   display: block;
   position: relative;
@@ -484,3 +466,21 @@ img {
   }
 
 }
+
+@media (min-width: 599px) and (max-width:1000px) {
+  .review {
+      font-family: 'franklinextralight', 'arial';
+      font-size: 18px;
+      line-height: 21.6px;
+      color: black;
+      display: flex;
+      max-width: 40%;
+      text-align: left;
+      display: flex;
+      padding-left: auto;
+      padding-right: auto;
+      margin-top: 50px;
+      margin-bottom: 20px;
+      z-index: 1;
+  }
+}​
