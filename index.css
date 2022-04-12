@@ -94,13 +94,11 @@ a:hover {
   font-weight: 500;
   color: #000000;
   display: block;
-  top: 0px;
   margin-left: auto;
   margin-right: auto;
   padding: 10px 10px;
   width: 100vw;
   z-index: 1;
-  position: fixed;
 }
 
 .navitem {
