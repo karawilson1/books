@@ -339,7 +339,7 @@ img {
     line-height: 21.6px;
     display: flex;
     color: black;
-    max-width: 80%;
+    max-width: 80vw;
     text-align: left;
     margin: 0px 10px;
     position: relative;
