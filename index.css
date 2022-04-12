@@ -78,11 +78,11 @@ a:hover {
 
 .karareads {
   font-family: 'bradfordmediumitalic', 'garamond';
-  font-size: 48px;
+  font-size: 120px;
   color: black;
-  top: 40px;
-  left: 40px;
-  position: fixed;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 60%;
 }
 
 .nav {
@@ -116,12 +116,11 @@ img {
 }
 
 .me {
-  transform: rotate(5deg);
+  transform: rotate(0deg);
   height: auto;
   display: inline-flex;
-  position: fixed;
-  top: 5%;
-  left: 70%;
+  margin-left: auto;
+  margin-right: auto; 
   z-index: -1;
 }
 
