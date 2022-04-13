@@ -409,7 +409,7 @@ img {
       display: flex;
       padding-left: 10px;
       padding-right: 10px;
-      margin-top: 50px;
+      margin-top: 20px;
       margin-bottom: 20px;
       z-index: 1;
   }
@@ -443,6 +443,9 @@ img {
     display: block;
     max-width: 120vw;
     height: auto;
+    z-index: -1;
+    right: 20px;
+    bottom: 20px;
   }
 
   .filenotfound {
