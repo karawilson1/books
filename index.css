@@ -370,7 +370,7 @@ img {
     font-size: 72px;
     line-height: 110%;
     display: block;
-    margin-top: 40px;
+    top: 40%;
     text-align: center;
     position: relative;
     z-index: 1;
