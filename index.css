@@ -372,6 +372,7 @@ img {
     position: relative;
     margin-top: auto;
     margin-bottom: auto;
+    top: 40%;
     z-index: 1;
     filter: invert(1);
     mix-blend-mode: difference;
