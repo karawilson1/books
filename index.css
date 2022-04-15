@@ -369,8 +369,6 @@ img {
     max-width: 100vw;
     font-size: 72px;
     line-height: 110%;
-    display: block;
-    top: 40%;
     text-align: center;
     position: relative;
     z-index: 1;
