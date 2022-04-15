@@ -57,6 +57,10 @@ a {
   white-space: wrap;
 }
 
+.content {
+  margin-top: 20px; 
+}
+
 a:hover {
   color: lime;
   font-family: 'bradfordmediumitalic'
