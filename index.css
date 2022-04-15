@@ -367,7 +367,7 @@ img {
   .karareads {
     max-width: 100vw;
     font-size: 72px;
-    line-height: 110%;
+    line-height: 100%;
     text-align: center;
     position: relative;
     margin-top: auto;
