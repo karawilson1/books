@@ -384,7 +384,7 @@ img {
     font-size: 32px;
     line-height: 110%;
     position: fixed;
-    margin-bottom: 20px; 
+    margin: 20px;
     text-align: left;
     top: 40px;
     left: 20px;
