@@ -86,8 +86,7 @@ a:hover {
   font-family: 'bradfordmediumitalic', 'garamond';
   font-size: 120px;
   color: black;
-  display: flex;
-  flex-direction: column;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 60px;
