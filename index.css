@@ -384,9 +384,10 @@ img {
     line-height: 110%;
     position: fixed;
     text-align: left;
-    top: 40px;
-    left: 20px;
+    margin-top: 40px;
+    margin-left: 20px;
     width: 100vw;
+    z-index: 1;
   }
 
   .author {
@@ -416,6 +417,16 @@ img {
       z-index: 1;
   }
 
+  .reviewimage {
+    display: block;
+    max-width: 120vw;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
 /*archive*/
   .yearcontainer {
     margin: 10px;
@@ -440,16 +451,6 @@ img {
     color: black;
     max-width: 100vw;
     display: inline-block;
-  }
-
-  .reviewimage {
-    display: block;
-    max-width: 120vw;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
   }
 
   .filenotfound {
