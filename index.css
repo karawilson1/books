@@ -369,9 +369,8 @@ img {
     font-size: 72px;
     line-height: 100%;
     text-align: center;
-    margin-top: auto;
+    margin-top: 60px;
     margin-bottom: auto;
-    top: 40%;
     z-index: 1;
     filter: invert(1);
     mix-blend-mode: difference;
