@@ -58,7 +58,7 @@ a {
 }
 
 .content {
-  margin-top: 20px; 
+  margin-top: 20px;
 }
 
 a:hover {
@@ -421,7 +421,7 @@ img {
   }
 
   .reviewimage {
-    display: flex;
+    display: inline-flex;
     max-width: 120vw;
     height: auto;
     margin-left: auto;
