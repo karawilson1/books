@@ -386,6 +386,7 @@ img {
     position: fixed;
     text-align: left;
     margin-top: 40px;
+    left: 20px;
     width: 100vw;
     z-index: 1;
   }
