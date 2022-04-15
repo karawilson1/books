@@ -424,6 +424,8 @@ img {
     margin-right: auto;
     margin-top: 20px;
     margin-bottom: 20px;
+    bottom: 20px;
+    right: 20px; 
   }
 
 /*archive*/
