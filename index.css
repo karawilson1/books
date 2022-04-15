@@ -54,7 +54,7 @@ body {
 a {
   text-decoration: none;
   color: black;
-  white-space: nowrap;
+  white-space: wrap;
 }
 
 a:hover {
