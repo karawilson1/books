@@ -423,13 +423,11 @@ img {
   }
 
   .reviewimage {
-    display: inline-flex;
+    display: inline-block;
     max-width: 120vw;
     height: auto;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
   }
 
 /*archive*/
