@@ -430,6 +430,7 @@ img {
     top: 40px;
     left: 67%;
     justify-content: center;
+    overflow: hidden;
   }
 
 /*archive*/
