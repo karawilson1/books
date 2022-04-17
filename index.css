@@ -392,6 +392,7 @@ img {
     left: 20px;
     width: 100vw;
     z-index: 1;
+    overflow: hidden;
   }
 
   .author {
