@@ -259,7 +259,7 @@ img {
   display: inline-flex;
   position: fixed;
   bottom: 40px;
-  left: 22%;
+  left: 25%;
   z-index: 0;
 }
 
@@ -428,7 +428,7 @@ img {
     height: auto;
     position: relative;
     top: 40px;
-    left: 65%;
+    left: 67%;
     justify-content: center;
     overflow: hidden;
   }
