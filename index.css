@@ -312,8 +312,6 @@ img {
   font-size: 300px;
   line-height: 80%;
   text-align: center;
-  color: black;
-  margin: 40px;
 }
 
  .inprogresstext {
@@ -324,7 +322,7 @@ img {
     display: block; 
     margin-left: auto;
     margin-right: auto;
-    margin-top: 40px; 
+    padding-top: 40px; 
   }
 
 
