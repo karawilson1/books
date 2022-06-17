@@ -313,6 +313,7 @@ img {
   line-height: 80%;
   text-align: center;
   padding-top: 40px; 
+  display: flex; 
 }
 
  .inprogresstext {
