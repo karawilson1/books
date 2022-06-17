@@ -410,6 +410,7 @@ img {
       font-family: 'franklinextralight', 'arial';
       font-size: 18px;
       line-height: 21.6px;
+      overflow: hidden; 
       color: black;
       display: flex;
       max-width: 100vw;
