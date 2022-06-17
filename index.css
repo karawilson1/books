@@ -316,6 +316,17 @@ img {
   margin: 40px;
 }
 
+ .inprogresstext {
+    font-family: 'franklinextralight', 'arial';
+    font-size: 18px;
+    text-align: center;
+    width: 100vw;
+    display: flex; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px; 
+  }
+
 
 @media (min-width: 20px) and (max-width: 600px) {
 .content {
