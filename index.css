@@ -342,6 +342,7 @@ img {
 .favorites-image-container {
   max-width: 100vw;
   max-height: 100vh;
+  overflow-y: auto;
 }
 
   .favorites-img {
