@@ -478,7 +478,7 @@ img {
     font-family: 'franklinextralight', 'arial';
     font-size: 18px;
     text-align: center;
-    width: 100%;
+    width: 10vw;
     display: flex; 
     margin: 20px;
   }
