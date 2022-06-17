@@ -471,13 +471,15 @@ img {
 
   .filenotfoundheader {
     font-size: 100px;
+    margin-top: 40px; 
   }
 
   .filenotfoundtext {
     font-family: 'franklinextralight', 'arial';
     font-size: 18px;
     text-align: center;
-    width: 100vw;
+    width: 100%;
+    display: flex; 
     margin: 20px;
   }
 
