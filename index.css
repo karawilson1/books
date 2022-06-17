@@ -482,6 +482,16 @@ img {
     display: flex; 
     margin: 20px;
   }
+  
+  .inprogresstext {
+    font-family: 'franklinextralight', 'arial';
+    font-size: 18px;
+    text-align: center;
+    width: 100vw;
+    display: flex; 
+    margin: 20px;
+    margin-top: 40px; 
+  }
 
   .inprogress {
     font-size: 100px;
