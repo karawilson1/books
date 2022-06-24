@@ -499,15 +499,6 @@ img {
     display: flex; 
     margin: 20px;
   }
-  
-  .inprogresstext {
-    font-family: 'franklinextralight', 'arial';
-    font-size: 18px;
-    text-align: center;
-    width: 100vw;
-    display: flex; 
-    padding-top: 40px;
-  }
 
   .inprogress {
     font-size: 100px;
@@ -516,6 +507,17 @@ img {
     margin-right: auto; 
     padding-top: 40px;
     overflow-x: hidden;
+  }
+  
+   .inprogresstext {
+    font-family: 'franklinextralight', 'arial';
+    font-size: 18px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 100vw;
+    display: flex; 
+    padding-top: 40px;
   }
 
 }
