@@ -478,24 +478,21 @@ img {
     display: inline-block;
   }
 
-  .filenotfound {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    margin-top: 40px;
-    max-width: 100vw;
-  }
 
   .filenotfoundheader {
     font-size: 100px;
     margin-top: 40px; 
+    margin-left: auto;
+    margin-right: auto; 
   }
 
   .filenotfoundtext {
     font-family: 'franklinextralight', 'arial';
     font-size: 18px;
     text-align: center;
-    width: 10vw;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 70vw;
     display: flex; 
     margin: 20px;
   }
