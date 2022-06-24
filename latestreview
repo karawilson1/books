@@ -1,12 +1,12 @@
 <html>
   <head>
-     <title>Happy Hour by Marlowe Granados</title>
+     <title>Her Body and Other Parties</title>
      <meta property="og:title" content="Kara Reads Books">
      <meta property="og:type" content="website">
      <meta property="og:url" content="https://karareadsbooks.com/">
-     <meta property="og:description" content="Happy Hour Review: Kara Reads Books">
+     <meta property="og:description" content="Her Body and Other Parties Review: Kara Reads Books">
      <meta property="og:site_name" content="Kara">
-     <meta property="og:image" content="docs/happyhour.jpg">
+     <meta property="og:image" content="docs/herbody.jpg">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      </head>
      <link rel="stylesheet" href="index.css">
@@ -21,7 +21,7 @@
 
        <div class="navitem">
          <a href="latestreview.html">
-           latest review
+           <i>latest review</i>
          </a>
        </div>
 
@@ -38,10 +38,10 @@
        </div>
      </div>
 
-       <div class="pagetitle">Happy Hour</div>
-       <div class="reviewimage"><img src="docs/happyhour.jpg" alt="image of Happy Hour book by Marlowe Granados" width="30%">
+       <div class="pagetitle">Her Body and Other Parties</div>
+       <div class="reviewimage"><img src="docs/herbody.jpg" alt="image of Her Body and Other Parties book" width="30%">
        </div>
-       <div class="author">by Marlowe Granados</div>
+       <div class="author">by Carmen Maria Machado</div>
        <div class="review">
        I have a rule that I write my book reflections before reading any other reviews. I’m too impressionable to hear what other people think before forming my own opinion. Though that has not been the case with this one because I didn’t like it and, frankly, didn’t get it? I needed other people to help me make sense of it, so I took to the internet to uncover what made this book so special to be chosen as a finalist for the national book awards. 
 <br><br>
