@@ -501,7 +501,7 @@ img {
   }
 
   .inprogress {
-    font-size: 100px;
+    font-size: 72px;
     margin-left: auto;
     margin-right: auto; 
     padding-top: 40px;
@@ -514,9 +514,8 @@ img {
     text-align: center;
     margin-left: auto;
     margin-right: auto; 
-    width: 100vw;
     display: flex; 
-    padding-top: 40px;
+    padding-top: 20px;
   }
 
 }
