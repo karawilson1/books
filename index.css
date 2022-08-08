@@ -487,8 +487,6 @@ img {
     margin-right: auto; 
     width: 100vw;
     display: flex; 
-    padding-left: 10px;
-    padding-right: 10px; 
   }
 
   .inprogress {
