@@ -63,7 +63,7 @@ a {
 
 a:hover {
   color: lime;
-  font-family: 'bradfordmediumitalic'
+  font-family: 'bradfordmediumitalic', 'garamond';
 }
 
 .introduction {
