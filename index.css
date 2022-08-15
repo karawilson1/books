@@ -327,6 +327,7 @@ img {
   margin-left: auto; 
   margin-right: auto; 
   margin-top: 40px; 
+  width: 15%;
 }
 
 .sampletext {
@@ -562,6 +563,8 @@ img {
   width: 100vw;
 }
   
+  .sampleimage {
+    width: 75%;
 }
 
 @media (min-width: 599px) and (max-width:1000px) {
