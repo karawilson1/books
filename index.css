@@ -321,6 +321,20 @@ img {
     padding-top: 40px; 
   }
 
+/*playground*/
+.sampleimage {
+  margin-left: auto; 
+  margin-right: auto; 
+  margin-top: 10%; 
+}
+
+.sampletext {
+  max-width: 40vw; 
+  font-family: 'franklinextralight', 'arial';
+  font-size: 18px;
+  display: block; 
+}
+
 
 @media (min-width: 20px) and (max-width: 600px) {
   
