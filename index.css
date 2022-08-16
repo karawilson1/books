@@ -542,8 +542,8 @@ img {
   .samplebyline {
     font-family: 'bradfordmediumitalic', 'garamond';
     color: black;
-    margin-top: 16px; 
-    font-size: 20px;
+    margin-top: 10px; 
+    font-size: 16px;
     text-align: left;
     width: 50vw;
   }
