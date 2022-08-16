@@ -576,6 +576,8 @@ img {
     margin-bottom: 40px;
     margin-left: 40px;
     margin-right: 40px;
+    width: 250px; 
+    height: auto; 
 }
 
 @media (min-width: 599px) and (max-width:1000px) {
