@@ -566,6 +566,7 @@ img {
   line-height: 110%;
   text-align: left;
   margin: 40px 0px 0px 20px;
+  width: 100vw;
   }
   
   .sampleimage {
