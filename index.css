@@ -327,7 +327,7 @@ img {
   margin-left: auto; 
   margin-right: auto; 
   margin-top: 40px; 
-  width: 400px;
+  max-width: 400px;
   height: auto; 
 }
 
@@ -577,7 +577,7 @@ img {
     margin-bottom: 40px;
     margin-left: 40px;
     margin-right: 40px;
-    width: 250px; 
+    max-width: 250px; 
     height: auto; 
 }
 
