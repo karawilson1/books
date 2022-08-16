@@ -566,7 +566,7 @@ img {
   }
   
   .sampleimage {
-    width: 75%;
+    width: 100%;
 }
 
 @media (min-width: 599px) and (max-width:1000px) {
