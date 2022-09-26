@@ -229,7 +229,7 @@ img {
 }
 
 .author {
-  font-family: 'bradfordmediumitalic', 'garamond';
+  font-family: 'bradfordregular', 'garamond';
   color: black;
   font-size: 16px;
   text-align: left;
@@ -458,7 +458,7 @@ img:hover {
   }
 
   .author {
-    font-family: 'bradfordmediumitalic', 'garamond';
+    font-family: 'bradfordregular', 'garamond';
     letter-spacing: -0.5px;
     color: black;
     margin: 4px 10px; 
