@@ -487,6 +487,8 @@ img:hover {
     margin-right: 10px;
     height: auto;
     object-fit: cover;
+    position: relative;
+    width:100%;
   }
 
 /*archive*/
