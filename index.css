@@ -424,18 +424,6 @@ img:hover {
     position: fixed;
   }
 
-  .me {
-    transform: rotate(0deg);
-    display: block;
-    max-width: 120vw;
-    height: auto;
-    margin: 20px 10px !important;
-    z-index: 1;
-    left: 45%;
-    position: fixed;
-    bottom: 0;
-  }
-
   .karareads {
     max-width: 100vw;
     font-size: 72px;
@@ -465,7 +453,8 @@ img:hover {
     margin: 4px 10px; 
     font-size: 16px;
     text-align: left;
-    position: relative; 
+    position: static;
+    width: 100%;
   }
 
   .review {
@@ -478,6 +467,7 @@ img:hover {
   margin-top: 20px;
   padding-left: 0px;
   padding-right: 0px;
+  padding-top: 0px;
   }
 
   .reviewimage {
@@ -488,7 +478,8 @@ img:hover {
     height: auto;
     object-fit: cover;
     position: relative;
-    width:100%;
+    width: 90vw;
+    z-index: -1;
   }
 
 /*archive*/
