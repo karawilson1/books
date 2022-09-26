@@ -594,6 +594,7 @@ img:hover {
   
   .sampleimage {
     margin-left: 10px;
+    margin-top: 20px;
     display: block;
     margin-right: 10px;
     height: auto;
