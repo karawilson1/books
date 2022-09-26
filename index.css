@@ -217,15 +217,15 @@ img {
 }
 
 .pagetitle {
-  font-family: 'bradfordmediumitalic', 'garamond';
-  color: black;
-  font-size: 32px;
-  line-height: 100%;
-  text-align: left;
-  position: fixed;
-  margin-top: 40px;
-  left: 40px;
-  width: 20vw;
+    font-family: 'bradfordmediumitalic', 'garamond';
+    color: black;
+    font-size: 48px;
+    line-height: 100%;
+    text-align: left;
+    position: fixed;
+    margin-top: 40px;
+    left: 40px;
+    width: 50vw;
 }
 
 .author {
