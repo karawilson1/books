@@ -464,6 +464,7 @@ img:hover {
     margin: 4px 10px; 
     font-size: 16px;
     text-align: left;
+    position: relative; 
   }
 
   .review {
@@ -474,6 +475,8 @@ img:hover {
   margin-left: 10px; 
   margin-right: 10px; 
   margin-top: 20px;
+  padding-left: 0px;
+  padding-right: 0px;
   }
 
   .reviewimage {
