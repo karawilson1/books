@@ -483,9 +483,7 @@ img:hover {
     z-index: -1;
   }
   
-  .img {
-    border: 1px solid #000000;
-    border-radius: 10px;
+  img {
     width: 100%;
   }
 
