@@ -118,11 +118,13 @@ a:hover {
   padding: 0px 10px;
 }
 
+/*img sizing dependent on viewport - 30% on dt and 100% on mobile*/
 img {
   border: 1px solid #000000;
   border-radius: 10px;
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
+  width: 30%;
 }
 
 .me {
@@ -477,9 +479,17 @@ img:hover {
     margin-right: 10px;
     height: auto;
     object-fit: cover;
-    position: relative;
+    position: static;
     width: 90vw;
     z-index: -1;
+  }
+  
+  .img {
+    border: 1px solid #000000;
+    border-radius: 10px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    width: 100%;
   }
 
 /*archive*/
