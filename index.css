@@ -455,6 +455,7 @@ img:hover {
   text-align: left;
   margin: 50px 0px 0px 10px;
   width: 100vw;
+    left: 0px;
   }
 
   .author {
