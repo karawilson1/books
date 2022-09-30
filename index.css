@@ -411,8 +411,8 @@ img:hover {
 }
 
   .favorites-img {
-    max-height: 100vh;
-    margin-bottom: 20px;
+    height: auto;
+    width: 90vw;
   }
 
   .nav {
