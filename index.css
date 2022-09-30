@@ -322,36 +322,13 @@ img {
   }
 
 /*playground*/
-.sampleimage {
-  display: block; 
-  margin-left: auto; 
-  margin-right: auto; 
-  margin-top: 40px; 
-  max-width: 400px;
-  height: auto; 
-}
 
-.sampletext {
-  max-width: 40vw; 
-  font-family: 'franklinextralight', 'arial';
-  font-size: 18px;
-  display: block; 
-  margin-left: auto; 
-  margin-right: auto; 
-  margin-top: 20px;
-}
-
-.sampleheading {
-  font-family: 'bradfordmediumitalic', 'garamond';
-  color: black;
-  font-size: 32px;
-  line-height: 100%;
-  text-align: center;
-  margin-top: 20px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40vw;
-}
+.turnpage {
+    font-family: 'bradfordregular', 'garamond';
+    color: black;
+    font-size: 16px;
+    text-align: right;
+  }
 
 img:hover {
   /* Start the shake animation and make the animation last for 0.5 seconds */
