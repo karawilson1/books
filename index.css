@@ -322,12 +322,14 @@ img {
   }
 
 /*playground*/
-
 .turnpage {
-    font-family: 'bradfordregular', 'garamond';
+    font-family: 'bradfordmediumitalic', 'garamond';
     color: black;
     font-size: 16px;
     text-align: right;
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
   }
 
 img:hover {
